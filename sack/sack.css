@@ -1,0 +1,54 @@
+
+
+
+
+
+
+q{
+
+   color:black;
+   
+	font-size:100;
+	text-align:center;
+	margin-left:150px;
+
+	 border:10px solid brown;
+	 
+
+}
+
+h1{
+
+	color:black;
+	text-align:right;
+	margin-right:80px;
+
+}
+
+img{
+
+	
+	border:10px solid brown;
+	width:1100;
+	height:300;
+	margin-left:150;
+
+}
+
+p{
+	font-size:60;
+	text-align:center;
+
+}
+
+blockquote{
+	text-align:center;
+	font-weight:900;
+
+}
+
+body{
+	background-color: silver;
+
+
+}
