@@ -26,5 +26,7 @@ img{
 }
 
 body{
-	background-color:#00008B;
+	background-image:url(back2.jpg);
+	background-repeat:no-repeat;
+	background-size:120%;
 }
